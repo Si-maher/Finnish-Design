@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap');
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root {
+    --main-green:rgb(8,127,91);
+    --main-grey:rgb(52,58,64);
+    --main-white:rgb(255,255,255);
+    --btn-hover:rgb(9,146,104)
+}
+html {
+    font-size: 62.5%;
+}
+body {
+    font-family: 'Rubik', Times, serif;
+    color: var(--main-grey);
+}
+.container {
+    width:96rem;
+}
+header,
+section {
+    margin-bottom: 9.6rem;
+}
+.grid-3-cols {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+h2 {
+    margin-bottom: 4.8rem;
+    font-size: 3.6rem;
+    letter-spacing: -0.5px;
+}
+.btn:link,
+.btn:visited {
+    background-color: var(--main-green);
+    color: var(--main-white);
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 500;
+    display: inline-block;
+    border-radius: 100px;
+}
+.btn:hover,
+.btn:active {
+    background-color: var(--btn-hover);
+}
+.btn--big {
+    padding: 1.6rem 3.2rem;
+    font-size: 1.8rem;
+}
+.btn--small {
+    font-size: 1.4rem;
+    padding: 1.2rem 2.4rem;
+}
+img {
+    border-radius: 1.2rem;
+}
