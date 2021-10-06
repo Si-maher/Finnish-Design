@@ -22,6 +22,7 @@ Managing the overall layout, especially concerning responsiveness still can be p
 
 ![Finnish Design Shop -Preview](./Finnish-Design-Shop.PNG)
 
+# [Demo](https://finnishdesignshop.netlify.app/)
 # Author
 
 Simon Maher
