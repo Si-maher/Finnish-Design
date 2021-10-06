@@ -20,7 +20,7 @@ Managing the overall layout, especially concerning responsiveness still can be p
 
 # Preview
 
-! [Finnish Design Shop -Preview](/Finnish-Design-Shop.png)
+![Finnish Design Shop -Preview](/Finnish-Design-Shop.png)
 
 # Author
 
