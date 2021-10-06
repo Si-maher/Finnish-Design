@@ -18,7 +18,9 @@ Managing the overall layout, especially concerning responsiveness still can be p
 * Html
 * CSS
 
-![Finnish Design Shop -Preview](.imgs/Finnish Design Shop.PNG)
+# Preview
+
+! [Finnish Design Shop -Preview](.imgs/Finnish Design Shop.PNG)
 
 # Author
 
