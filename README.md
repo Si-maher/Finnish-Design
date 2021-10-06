@@ -18,4 +18,8 @@ Managing the overall layout, especially concerning responsiveness still can be p
 * Html
 * CSS
 
-![Finnish Design Shop](./img/Finnish design Shop.PNG)
+![Finnish Design Shop -Preview](./Finnish design Shop.PNG)
+
+# Author
+
+Simon Maher
